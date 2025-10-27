@@ -1,0 +1,8 @@
+application\config\config.php
+application\config\database.php
+
+.env
+node_modules/
+vendor/
+dist/
+storage/
